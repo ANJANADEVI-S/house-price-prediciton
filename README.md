@@ -87,4 +87,4 @@ Exported:
 1. Open the notebook in Google Colab or Jupyter.
 2. Install dependencies if required:
    ```bash
-   pip install numpy
+    pip install numpy pandas scikit-learn seaborn matplotlib joblib
